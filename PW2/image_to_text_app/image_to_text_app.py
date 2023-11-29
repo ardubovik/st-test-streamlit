@@ -1,9 +1,6 @@
 """
-
-Постановка задачи описана тут: image_to_text_app/README.md
-
-Необходимые зависимости: transformers, sentencepiece, streamlit, torch
-Установка: pip install transformers sentencepiece streamlit torch
+Перед запуском установить зависимости:
+pip install -r requirements.txt
 
 """
 
